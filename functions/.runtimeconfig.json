@@ -1,0 +1,9 @@
+{
+  "firebase": {
+    "projectId": "test"
+  },
+  "app": {
+    "environment": "bar",
+    "origins": "foo"
+   }
+}
